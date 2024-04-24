@@ -5,7 +5,7 @@ Read on another language:
 \
 🇺🇸 [English](./readme.md) 
 \
-🇷🇺 [Русский](./morimanga-readme_ru.md) / Russian
+🇷🇺 [Русский](https://github.com/Morimanga/.github/blob/main/profile/morimanga-readme_ru.md) / Russian
 
 Наш проєкт має дві частини: [Risu - фронтенд (сайт)](https://github.com/Morimanga/risu) та сервер - [Riku](https://github.com/Morimanga/riku)
 
